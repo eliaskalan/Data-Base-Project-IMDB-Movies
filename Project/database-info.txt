@@ -1,0 +1,11 @@
+Ιωάννης Αποστόλου - 3190013
+Ηλίας Καλαντζής - 3190068
+Endpoint: db-studentserver2021-3190013-3190068.postgres.database.azure.com
+Username: examiner@db-studentserver2021-3190013-3190068
+Password: examinersPassword
+Database: DB_2021_3190013_3190068
+
+Server [localhost]: db-studentserver2021-3190013-3190068.postgres.database.azure.com
+Database [postgres]: Project
+Port [5432]:
+Username [postgres]: examiner@db-studentserver2021-3190013-3190068
