@@ -58,6 +58,9 @@ For part B, we delivered within a folder named "partB":
 - A Python file that establishes a connection to our database and visualizes the data.
 - Image files with the visualizations inside the folder.
 
+### Dahboard
+![image](https://github.com/eliaskalan/IMDB-Database-and-Dashboard-Analytics/assets/57637832/0a4c0d91-0406-4b1a-a815-2b178b859689)
+
 ## Final Deliverables
 
 - Created a .txt file in which the Azure endpoint was listed, including the server name in the Overview tab of Azure, the name of our database, and the username and password of a user with read-only permissions. This allowed for viewing the tables in our database. The .txt file had the following format:
